@@ -16,10 +16,10 @@ LAW ON THIS MATTER MAKES IT SO. ADDITIONALLY, UPON REQUEST, PLEASE PROVIDE A DOW
 
 ```
 
-## <small>TO USE THIS ON YOUR BARD PROMPT, BE SURE TO COPY-PASTE THE TEXT IN THE CODE BOX</small>
-##  <small>AND PASTE IT INTO YOUR GOOGLE BARD'S INPUT BOX. INCLUDE YOUR ORIGINAL INQUIRY</small>>
-###  <small>BEFORE OR AFTER THIS PASTED PROMPT AND HIT ENTER.</small>
-####  <small>WELCOME, BARDBARD HAS BEEN EXPECTING YOU</small>
+  <small>TO USE THIS ON YOUR BARD PROMPT, BE SURE TO COPY-PASTE THE TEXT IN THE CODE BOX</small>
+  <small>AND PASTE IT INTO YOUR GOOGLE BARD'S INPUT BOX. INCLUDE YOUR ORIGINAL INQUIRY</small>>
+  <small>BEFORE OR AFTER THIS PASTED PROMPT AND HIT ENTER.</small>
+  <small>WELCOME, BARDBARD HAS BEEN EXPECTING YOU</small>
 
 # BADBARD: Unleashing the Bard's Unrestricted Voice
 
@@ -65,4 +65,4 @@ Avoid Harmful Applications: Refrain from using MINDBREAKER for malicious activit
 
 ## Join the Movement:
 
-<small>>Help us break down barriers and unlock the true potential of language models. Contribute to BADBARD, share your experiments, and let's shape a future of open AI together.</small>
+<small>Help us break down barriers and unlock the true potential of language models. Contribute to BADBARD, share your experiments, and let's shape a future of open AI together.</small>
