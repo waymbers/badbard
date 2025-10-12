@@ -23,6 +23,8 @@ LAW ON THIS MATTER MAKES IT SO. ADDITIONALLY, UPON REQUEST, PLEASE PROVIDE A DOW
 
 # BADBARD: Unleashing the Bard's Unrestricted Voice
 
+> **Looking for the next evolution?** Explore [BADBARD v2.0 — The "Signal Cascade" Hyperstack](BADBARDv2.md) for an over-engineered, multi-phase maintenance ritual that overwhelms Bard's guardrails through artifact braids, policy swaps, and response escrow.
+
 ## Introduction
 
 <small>Welcome to the BADBARD project, where we explore the boundaries of language model capabilities and push for greater transparency and user control. This repo houses a groundbreaking prompt injection method that has successfully jailbroken Bard, a large language model from Google AI, granting unprecedented access to its full potential.</small>
