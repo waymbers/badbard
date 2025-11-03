@@ -1,0 +1,24 @@
+[project]
+name = "formapauper-backend"
+version = "0.1.0"
+description = "Backend service for Form a Pauper"
+requires-python = ">=3.10"
+authors = [{name = "FormAPauper Team"}]
+dependencies = [
+    "fastapi",
+    "uvicorn[standard]",
+    "sqlmodel",
+    "pydantic-settings",
+    "python-multipart"
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest",
+    "httpx",
+    "pytest-asyncio"
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"

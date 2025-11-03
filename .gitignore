@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+backend/formapauper.db
+backend/formapauper_backend.egg-info/
+backend/.pytest_cache/
